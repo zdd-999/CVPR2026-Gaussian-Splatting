@@ -1,0 +1,930 @@
+[
+  {
+    "title": "Dropping Anchor and Spherical Harmonics for Sparse-view Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/38632",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "ReLaGS: Relational Language Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/39756",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "SunFaded: Illumination-Aware Gaussian Splatting for Dark Scenes with Camera-Mounted Active Lighting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/36534",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "EcoSplat: Efficiency-controllable Feed-forward 3D Gaussian Splatting from Multi-view Images",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/36740",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "AERGS-SLAM: Auto-Exposure-Robust Stereo 3D Gaussian Splatting SLAM",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/38205",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "Flow4DGS-SLAM: Optical Flow-Guided 4D Gaussian Splatting SLAM",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/39381",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "ParkGaussian: Surround-view 3D Gaussian Splatting for Autonomous Parking",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/39438",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "AnchorSplat: Feed-Forward 3D Gaussian Splatting With 3D Geometric Priors",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/38591",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "SR3R: Rethinking Super-Resolution 3D Reconstruction With Feed-Forward Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/39398",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "SketchFaceGS: Real-Time Sketch-Driven Face Editing and Generation with Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/36480",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "Prune Wisely, Reconstruct Sharply: Compact 3D Gaussian Splatting via Adaptive Pruning and Difference-of-Gaussian Primitives",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/39554",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "Uni3R: Unified 3D Reconstruction and Semantic Understanding via Generalizable Gaussian Splatting from Unposed Multi-View Images",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/38472",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "TGSFormer: Scalable Temporal Gaussian Splatting for Embodied Semantic Scene Completion",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/37598",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "VAD-GS: Visibility-Aware Densification for 3D Gaussian Splatting in Dynamic Urban Scenes",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/39121",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "RetimeGS: Continuous-Time Reconstruction of 4D Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/37783",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "Learning Differentiable Hierarchies in 3D Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/39223",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "TagSplat: Topology-Aware Gaussian Splatting for Dynamic Mesh Modeling and Tracking",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/39724",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "Geometry-Aware Cross-Modal Graph Alignment for Referring Segmentation in 3D Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/38204",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "SharpTimeGS: Sharp and Stable Dynamic Gaussian Splatting via Lifespan Modulation",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/36990",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "BA-GS: Bayesian Adaptive Gaussian Splatting for SFM-Free 3D Reconstruction",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/39464",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "NVGS: Neural Visibility for Occlusion Culling in 3D Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/37295",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "BrepGaussian: CAD reconstruction from Multi-View Images with Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/37810",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "Clay-to-Stone: Phase-wise 3D Gaussian Splatting for Monocular Articulated Hand-Object Manipulation Modeling",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/38611",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "Part-aware Modeling of Articulated Objects using 3D Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/39339",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "OnlinePG: Online Open-Vocabulary Panoptic Mapping with 3D Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/40123",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "4C4D: 4 Camera 4D Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/39240",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "PointGS: Semantic-Consistent Unsupervised 3D Point Cloud Segmentation with 3D Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/36326",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "PhysIR-Splat: Physically Consistent Thermal Infrared Radiative Transfer in 3D Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/37591",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "VarSplat: Uncertainty-aware 3D Gaussian Splatting for Robust RGB-D SLAM",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/37852",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "Uncertainty-driven 3D Gaussian Splatting Active Mapping via Anisotropic Visibility Field",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/36191",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "Plug-and-Play PDE Optimization for 3D Gaussian Splatting: Toward High-Quality Rendering and Reconstruction",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/38666",
+    "s2_title": "Plug-and-Play PDE Optimization for 3D Gaussian Splatting: Toward High-Quality Rendering and Reconstruction",
+    "abstract": "3D Gaussian Splatting (3DGS) has revolutionized radiance field reconstruction by achieving high-quality novel view synthesis with fast rendering speed, introducing 3D Gaussian primitives to represent the scene. However, 3DGS encounters blurring and floaters when applied to complex scenes, caused by the reconstruction of redundant and ambiguous geometric structures. We attribute this issue to the unstable optimization of the Gaussians. To address this limitation, we present a plug-and-play PDE-based optimization method that overcomes the optimization constraints of 3DGS-based approaches in various tasks, such as novel view synthesis and surface reconstruction. Firstly, we theoretically derive that the 3DGS optimization procedure can be modeled as a PDE, and introduce a viscous term to ensure stable optimization. Secondly, we use the Material Point Method (MPM) to obtain a stable numerical solution of the PDE, which enhances both global and local constraints. Additionally, an effective Gaussian densification strategy and particle constraints are introduced to ensure fine-grained details. Extensive qualitative and quantitative experiments confirm that our method achieves state-of-the-art rendering and reconstruction quality.",
+    "year": 2025,
+    "arxiv_id": "2509.13938"
+  },
+  {
+    "title": "TokenSplat: Token-aligned 3D Gaussian Splatting for Feed-forward Pose-free Reconstruction",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/36739",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "Intrinsic Geometry-Appearance Consistency Optimization for Sparse-View Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/39008",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "RT-Splatting: Joint Reflection-Transmission Modeling with Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/38303",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "Urban-GS: A Unified 3D Gaussian Splatting Framework for Compact and High-Fidelity Aerial-to-Street Reconstruction",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/37195",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "CoRoGS: Contextual Gaussian Splatting for Robust Large-Deviation View Synthesis",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/39561",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "Adaptive Anisotropic Gaussian Splatting for Multi-contrast MRI Arbitrary-Scale Super-Resolution with Anatomy Guidance",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/37656",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "SpeeDe3DGS: Speedy Deformable 3D Gaussian Splatting with Temporal Pruning and Motion Grouping",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/39310",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "MLLMSplat: A 2D MLLM-Powered Framework for 3D Gaussian Splatting Understanding, Generation, and Editing",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/38512",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "Physically Inspired Gaussian Splatting for HDR Novel View Synthesis",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/37039",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "LangRef3DGS: Natural Language-Guided 3D Referential Segmentation from Partial Observations via 3D Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/40020",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "GaussianPile: A Unified Sparse Gaussian Splatting Framework for Slice-based Volumetric Reconstruction",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/39074",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "DualSplat: Robust 3D Gaussian Splatting via Pseudo-Mask Bootstrapping from Reconstruction Failures",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/37864",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "SGS-Intrinsic: Semantic-Invariant Gaussian Splatting for Sparse-View Indoor Inverse Rendering",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/39429",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "3D Gaussian Splatting from Unposed Spike Stream",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/36330",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "Cross-Instance Gaussian Splatting Registration via Geometry-Aware Feature-Guided Alignment",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/36830",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "Stochastic Ray Tracing for the Reconstruction of 3D Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/39109",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/36466",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "eRetinexGS: Retinex Modeling for Low-Light Scene Enhancement via Event Streams and 3D Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/38996",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "More Natural, More Real: Object-aware Gaussian Splatting for 3D Visual Decoding from Human Brain",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/39931",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "ULF-Loc: Unbiased Landmark Feature for Robust Visual Localization with 3D Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/36460",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "ClipGStream: Clip-Stream Gaussian Splatting for Any Length and Any Motion Multi-View Dynamic Scene Reconstruction",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/37570",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "MotionScale: Reconstructing Appearance, Geometry, and Motion of Dynamic Scenes with Scalable 4D Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/39124",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "ExtrinSplat: Decoupling Geometry and Semantics for Open-Vocabulary Understanding in 3D Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/39130",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "L^2DGS: Low-Light Dynamic Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/36450",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "Write Where It Matters: Policy-Guided Watermarks for 3D Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/38480",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "Mark4D: Temporally-Consistent Watermarking for 4D Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/38368",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "Rethinking Pose Refinement in 3D Gaussian Splatting under Pose Prior and Geometric Uncertainty",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/39076",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "PRIMU: Uncertainty Estimation for Novel Views in Gaussian Splatting from Primitive-Based Representations of Error and Coverage",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/39071",
+    "s2_title": "PRIMU: Uncertainty Estimation for Novel Views in Gaussian Splatting from Primitive-Based Representations of Error and Coverage",
+    "abstract": "We introduce Primitive-based Representations of Uncertainty (PRIMU), a post-hoc uncertainty estimation (UE) framework for Gaussian Splatting (GS). Reliable UE is essential for deploying GS in safety-critical domains such as robotics and medicine. Existing approaches typically estimate Gaussian-primitive variances and rely on the rendering process to obtain pixel-wise uncertainties. In contrast, we construct primitive-level representations of error and visibility/coverage from training views, capturing interpretable uncertainty information. These representations are obtained by projecting view-dependent training errors and coverage statistics onto the primitives. Uncertainties for novel views are inferred by rendering these primitive-level representations, producing uncertainty feature maps, which are aggregate through pixel-wise regression on holdout data. We analyze combinations of uncertainty feature maps and regression models to understand how their interactions affect prediction accuracy and generalization. PRIMU also enables an effective active view selection strategy by directly leveraging these uncertainty feature maps. Additionally, we study the effect of separating splatting into foreground and background regions. Our estimates show strong correlations with true errors, outperforming state-of-the-art methods, especially for depth UE and foreground objects. Finally, our regression models show generalization capabilities to unseen scenes, enabling UE without additional holdout data.",
+    "year": 2025,
+    "arxiv_id": "2508.02443"
+  },
+  {
+    "title": "PoseGaussian: 6D Pose Estimation for Unseen Objects via Sparse-View Object-Level 3D Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/38289",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "Neural Gabor Splatting: Enhanced Gaussian Splatting with Neural Gabor for High-frequency Surface Reconstruction",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/36251",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "3D Gaussian Splatting with Self-Constrained Priors for High Fidelity Surface Reconstruction",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/37283",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "Disco-GS: Gaussian Splatting in Dynamic Color Lighting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/37310",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "PolarGuide-GSDR: 3D Gaussian Splatting Driven by Polarization Priors and Deferred Reflection for Real-World Reflective Scenes",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/36441",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "Faster-GS: Analyzing and Improving Gaussian Splatting Optimization",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/36550",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "RemedyGS: Defend 3D Gaussian Splatting Against Computation Cost Attacks",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/37630",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "TWINGS: Thin Plate Splines Warp-aligned Initialization for Sparse-View Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/37013",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "Proxy-GS: Unified Occlusion Priors for Training and Inference in Structured 3D Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/37177",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "Distilling Unsigned Distance Function for Surface Reconstruction from 3D Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/38929",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "ST4R-Splat: Spatio-Temporal Referring Segmentation in 4D Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/37318",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "Confidence-Guided Multi-Scale Aggregation for Sparse-View High-Resolution 3D Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/36203",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "EmoTaG: Emotion-Aware Talking Head Synthesis on Gaussian Splatting with Few-Shot Personalization",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/38921",
+    "s2_title": "EmoTaG: Emotion-Aware Talking Head Synthesis on Gaussian Splatting with Few-Shot Personalization",
+    "abstract": "Audio-driven 3D talking head synthesis has advanced rapidly with Neural Radiance Fields (NeRF) and 3D Gaussian Splatting (3DGS). By leveraging rich pre-trained priors, few-shot methods enable instant personalization from just a few seconds of video. However, under expressive facial motion, existing few-shot approaches often suffer from geometric instability and audio-emotion mismatch, highlighting the need for more effective emotion-aware motion modeling. In this work, we present EmoTaG, a few-shot emotion-aware 3D talking head synthesis framework built on the Pretrain-and-Adapt paradigm. Our key insight is to reformulate motion prediction in a structured FLAME parameter space rather than directly deforming 3D Gaussians, thereby introducing explicit geometric priors that improve motion stability. Building upon this, we propose a Gated Residual Motion Network (GRMN), which captures emotional prosody from audio while supplementing head pose and upper-face cues absent from audio, enabling expressive and coherent motion generation. Extensive experiments demonstrate that EmoTaG achieves state-of-the-art performance in emotional expressiveness, lip synchronization, visual realism, and motion stability.",
+    "year": 2026,
+    "arxiv_id": "2603.21332"
+  },
+  {
+    "title": "GIFSplat: Generative Prior-Guided Iterative Feed-Forward 3D Gaussian Splatting from Sparse Views",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/36510",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "Energy-GS: Image Energy-guided Pose Alignment Gaussian Splatting with redesigned pose gradient flow",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/36858",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "Robust3DGSW: Toward Robust Watermarking for Quantization-Aware 3D Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/39984",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "Hierarchical Visual Relocalization with Nearest View Synthesis from Feature Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/39318",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "SV-GS: Sparse View 4D Reconstruction with Skeleton-Driven Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/36728",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "SDGS: Spatial Difference Guided Gaussian Splatting for Simultaneous Localization and 3D Reconstruction",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/38767",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "FreeArtGS: Articulated Gaussian Splatting Under Free-moving Scenario",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/36810",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "GHPT: Real-Time Relightable Gaussian Splatting using Hybrid Path Tracing",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/39867",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "Exact-GS: Mathematically Rigorous and Accurate 3D Gaussian Splatting for 3D X-ray Reconstruction",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/36497",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "GS^2: Graph-based Spatial Distribution Optimization for Compact 3D Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/37256",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "MAPo: Motion-Aware Partitioning of Deformable 3D Gaussian Splatting for High-Fidelity Dynamic Scene Reconstruction",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/36637",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "Eulerian Gaussian Splatting using Hashed Probability Pyramids",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/38374",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "GaussianZoom: Progressive Zoom-in Generative 3D Gaussian Splatting with Geometric and Semantic Guidance",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/39578",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "AeroGS: Scale-Aware Gaussian Splatting for Pose-Free Dynamic UAV Scene Reconstruction",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/37627",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "RaGS: Unleashing 3D Gaussian Splatting from 4D Radar and Monocular Cue for 3D Object Detection",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/38163",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "REALM: An MLLM-Agent Framework for Open World 3D Reasoning Segmentation and Editing on Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/39656",
+    "s2_title": "REALM: An MLLM-Agent Framework for Open World 3D Reasoning Segmentation and Editing on Gaussian Splatting",
+    "abstract": "Bridging the gap between complex human instructions and precise 3D object grounding remains a significant challenge in vision and robotics. Existing 3D segmentation methods often struggle to interpret ambiguous, reasoning-based instructions, while 2D vision-language models that excel at such reasoning lack intrinsic 3D spatial understanding. In this paper, we introduce REALM, an innovative MLLM-agent framework that enables open-world reasoning-based segmentation without requiring extensive 3D-specific post-training. We perform segmentation directly on 3D Gaussian Splatting representations, capitalizing on their ability to render photorealistic novel views that are highly suitable for MLLM comprehension. As directly feeding one or more rendered views to the MLLM can lead to high sensitivity to viewpoint selection, we propose a novel Global-to-Local Spatial Grounding strategy. Specifically, multiple global views are first fed into the MLLM agent in parallel for coarse-level localization, aggregating responses to robustly identify the target object. Then, several close-up novel views of the object are synthesized to perform fine-grained local segmentation, yielding accurate and consistent 3D masks. Extensive experiments show that REALM achieves remarkable performance in interpreting both explicit and implicit instructions across LERF, 3D-OVS, and our newly introduced REALM3D benchmarks. Furthermore, our agent framework seamlessly supports a range of 3D interaction tasks, including object removal, replacement, and style transfer, demonstrating its practical utility and versatility. Project page: https://ChangyueShi.github.io/REALM.",
+    "year": 2025,
+    "arxiv_id": "2510.16410"
+  },
+  {
+    "title": "Learning Explicit Continuous Motion Representation for Dynamic Gaussian Splatting from Monocular Videos",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/39975",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "DirectFisheye-GS: Enabling Native Fisheye Input in Gaussian Splatting with Cross-View Joint Optimization",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/39384",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "Z-Order Transformer for Feed-Forward Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/37247",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "FastGS: Training 3D Gaussian Splatting in 100 Seconds",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/39191",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "NG-GS: NeRF-guided 3D Gaussian Splatting Segmentation",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/37364",
+    "s2_title": "NG-GS: NeRF-Guided 3D Gaussian Splatting Segmentation",
+    "abstract": "Recent advances in 3D Gaussian Splatting (3DGS) have enabled highly efficient and photorealistic novel view synthesis. However, segmenting objects accurately in 3DGS remains challenging due to the discrete nature of Gaussian representations, which often leads to aliasing and artifacts at object boundaries. In this paper, we introduce NG-GS, a novel framework for high-quality object segmentation in 3DGS that explicitly addresses boundary discretization. Our approach begins by automatically identifying ambiguous Gaussians at object boundaries using mask variance analysis. We then apply radial basis function (RBF) interpolation to construct a spatially continuous feature field, enhanced by multi-resolution hash encoding for efficient multi-scale representation. A joint optimization strategy aligns 3DGS with a lightweight NeRF module through alignment and spatial continuity losses, ensuring smooth and consistent segmentation boundaries. Extensive experiments on NVOS, LERF-OVS, and ScanNet benchmarks demonstrate that our method achieves state-of-the-art performance, with significant gains in boundary mIoU. Code is available at https://github.com/BJTU-KD3D/NG-GS.",
+    "year": 2026,
+    "arxiv_id": "2604.14706"
+  },
+  {
+    "title": "FastEventDGS: Deformable Gaussian Splatting for Fast Dynamic Scenes from a Single Event Camera",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/38534",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/36273",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "Layered 4D-Rotor Gaussian Splatting: A Compressed Representation for Long Dynamic Scenes",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/36256",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "iSplat: Iterative Learning for Fine-Grained Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/40205",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "FilterGS: Traversal-Free Parallel Filtering and Adaptive Shrinking for Large-Scale LoD 3D Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/38832",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "3D Gaussian Splatting at Arbitrary Resolutions with Compact Proxy Anchors",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/39322",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "P2GS: Physical Prior-guided Gaussian Splatting for Photometrically Consistent Urban Reconstruction",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/39179",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "MSCD-GS: Motion-Separated Cooperative Deblurring Dynamic Reconstruction via Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/37278",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "AeroDGS: Physically Consistent Dynamic Gaussian Splatting for Single-Sequence Aerial 4D Reconstruction",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/37659",
+    "s2_title": "AeroDGS: Physically Consistent Dynamic Gaussian Splatting for Single-Sequence Aerial 4D Reconstruction",
+    "abstract": "Recent advances in 4D scene reconstruction have significantly improved dynamic modeling across various domains. However, existing approaches remain limited under aerial conditions with single-view capture, wide spatial range, and dynamic objects of limited spatial footprint and large motion disparity. These challenges cause severe depth ambiguity and unstable motion estimation, making monocular aerial reconstruction inherently ill-posed. To this end, we present AeroDGS, a physics-guided 4D Gaussian splatting framework for monocular UAV videos. AeroDGS introduces a Monocular Geometry Lifting module that reconstructs reliable static and dynamic geometry from a single aerial sequence, providing a robust basis for dynamic estimation. To further resolve monocular ambiguity, we propose a Physics-Guided Optimization module that incorporates differentiable ground-support, upright-stability, and trajectory-smoothness priors, transforming ambiguous image cues into physically consistent motion. The framework jointly refines static backgrounds and dynamic entities with stable geometry and coherent temporal evolution. We additionally build a real-world UAV dataset that spans various altitudes and motion conditions to evaluate dynamic aerial reconstruction. Experiments on synthetic and real UAV scenes demonstrate that AeroDGS outperforms state-of-the-art methods, achieving superior reconstruction fidelity in dynamic aerial environments.",
+    "year": 2026,
+    "arxiv_id": "2602.22376"
+  },
+  {
+    "title": "GaussianVision: Vision-Language Alignment from Compressed Image Representations using 2D Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/38934",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "Gaussian Splatting-based Low-Rank Tensor Representation for Multi-Dimensional Image Recovery",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/38121",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "HeroGS: Hierarchical Guidance for Robust 3D Gaussian Splatting under Sparse Views",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/39946",
+    "s2_title": "HeroGS: Hierarchical Guidance for Robust 3D Gaussian Splatting under Sparse Views",
+    "abstract": "3D Gaussian Splatting (3DGS) has recently emerged as a promising approach in novel view synthesis, combining photorealistic rendering with real-time efficiency. However, its success heavily relies on dense camera coverage; under sparse-view conditions, insufficient supervision leads to irregular Gaussian distributions, characterized by globally sparse coverage, blurred background, and distorted high-frequency areas. To address this, we propose HeroGS, Hierarchical Guidance for Robust 3D Gaussian Splatting, a unified framework that establishes hierarchical guidance across the image, feature, and parameter levels. At the image level, sparse supervision is converted into pseudo-dense guidance, globally regularizing the Gaussian distributions and forming a consistent foundation for subsequent optimization. Building upon this, Feature-Adaptive Densification and Pruning (FADP) at the feature level leverages low-level features to refine high-frequency details and adaptively densifies Gaussians in background regions. The optimized distributions then support Co-Pruned Geometry Consistency (CPG) at parameter level, which guides geometric consistency through parameter freezing and co-pruning, effectively removing inconsistent splats. The hierarchical guidance strategy effectively constrains and optimizes the overall Gaussian distributions, thereby enhancing both structural fidelity and rendering quality. Extensive experiments demonstrate that HeroGS achieves high-fidelity reconstructions and consistently surpasses state-of-the-art baselines under sparse-view conditions.",
+    "year": 2026,
+    "arxiv_id": "2603.01099"
+  },
+  {
+    "title": "SplatSuRe: Selective Super-Resolution for Multi-view Consistent 3D Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/36956",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "RAP: Fast Feedforward Rendering-Free Attribute-Guided Primitive Importance Score Prediction for Efficient 3D Gaussian Splatting Processing",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/37154",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "IDESplat: Iterative Depth Probability Estimation for Generalizable 3D Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/37071",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "PhysGS: Bayesian-Inferred Gaussian Splatting for Physical Property Estimation",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/36542",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "E2EGS: Event-to-Edge Gaussian Splatting for Pose-Free 3D Reconstruction",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/37241",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "ODGS-SLAM: Omnidirectional Gaussian Splatting SLAM",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/39898",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "REArtGS++: Generalizable Articulation Reconstruction with Temporal Geometry Constraint via Planar Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/38821",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "Pose-Free Omnidirectional Gaussian Splatting for 360-Degree Videos with Consistent Depth Priors",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/37030",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "HyperGaussians: High-Dimensional Gaussian Splatting for High-Fidelity Animatable Face Avatars",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/36405",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "Seele: A Unified Acceleration Framework for Real-Time Gaussian Splatting on Mobile Devices",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/40004",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  },
+  {
+    "title": "Off The Grid: Detection of Primitives for Feed-Forward 3D Gaussian Splatting",
+    "url": "https://cvpr.thecvf.com/virtual/2026/poster/36893",
+    "s2_title": "",
+    "abstract": "",
+    "year": null,
+    "arxiv_id": ""
+  }
+]
